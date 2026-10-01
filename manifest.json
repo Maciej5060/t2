@@ -1,0 +1,25 @@
+{
+ "id": "t50-2t-x1x",
+ "name": "T50 2T x1x — 6 modeli (podwójny trigger)",
+ "short_name": "T50 2T",
+ "start_url": "./?app=t50_2t",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#12151c",
+ "theme_color": "#1b1f2a",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
